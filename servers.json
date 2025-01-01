@@ -43,6 +43,10 @@
     {
       "name": "iDH Server",
       "address": "https://ani.idevicehacked.com"
+    },
+    {
+    "name": "personal sidestore",
+    "address": "http://cyxmio.asuscomm.com:8566/"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
